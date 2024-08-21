@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #00509E;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        .content {
+            padding: 20px;
+            text-align: center;
+        }
+        .content img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+            margin-bottom: 20px;
+        }
+        .description {
+            font-size: 1.2em;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>O Futuro: Carros Voadores</h1>
+    </header>
+    <div class="content">
+        <img src="<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carros Voadores</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #00509E;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+        .content {
+            padding: 20px;
+            text-align: center;
+        }
+        .content img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 10px;
+            margin-bottom: 20px;
+        }
+        .description {
+            font-size: 1.2em;
+            line-height: 1.6;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1> Introdução </h1>
+    </header>
+    <div class="content">
+        <img src="https://static.poder360.com.br/2022/10/carro-voador-chines-848x477.jpeg" alt="Imagem de um carro voador">
+        
+  
+</head>
+
+<h1> Como funcionam?</h1>
+<p>Os carros voadores, também conhecidos como veículos aéreos pessoais, representam uma inovação tecnológica que promete transformar a mobilidade urbana e interurbana. Diferentes dos aviões convencionais, esses veículos são projetados para decolagens e pousos verticais, tornando-os mais versáteis em ambientes urbanos densos.</p>
+
+<h1> Vantagens e Desvantagens </h1>
+<p>Os carros voadores oferecem várias vantagens, como maior mobilidade e a possibilidade de viagens rápidas em áreas congestionadas. No entanto, eles também apresentam desvantagens, incluindo altos custos de desenvolvimento e produção, além de desafios relacionados à infraestrutura e aceitação pública.</p>
